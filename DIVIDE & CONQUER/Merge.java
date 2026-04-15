@@ -24,7 +24,6 @@ class Merge {
                 temp[k++] = arr[j++];
             }
         }
-
         // left part
         while (i <= mid) temp[k++] = arr[i++];
 
